@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "Mathematics",
+    "Description": "Study of numbers, quantities, shapes, and patterns",
+    "WeeklyClasses": 5,
+    "Literature": [
+      "Basic Mathematics by Kiril Dimovski",
+      "Advanced Algebra by Elena Petrovska"
+    ]
+  },
+  {
+    "Name": "English",
+    "Description": "Study of language, literature, and communication",
+    "WeeklyClasses": 4,
+    "Literature": [
+      "English Grammar in Use",
+      "Shakespeare\u0027s Complete Works"
+    ]
+  },
+  {
+    "Name": "Art",
+    "Description": "Study of visual arts, creativity, and artistic expression",
+    "WeeklyClasses": 3,
+    "Literature": [
+      "The Story of Art by E.H. Gombrich",
+      "Color Theory and Practice"
+    ]
+  },
+  {
+    "Name": "Music",
+    "Description": "Sounds",
+    "WeeklyClasses": 2,
+    "Literature": [
+      "1",
+      "2",
+      "3"
+    ]
+  }
+]
